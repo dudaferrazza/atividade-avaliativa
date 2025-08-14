@@ -16,7 +16,7 @@ Projeto de uma landing page desenvolvida utilizando HTML e CSS.
 - https://www.figma.com/design/TfiJpNZMpsCFbuPOIS49Fz/MI-78--Copy-?node-id=0-1&t=cxeJ070bRyVLLgVZ-1
 
 ## Estrutura do Projeto
-- atividade-avaliativa/
-- ├── imagens/ 
-- ├── index.html 
-- └── style.css 
+atividade-avaliativa/ <br>
+├── imagens/<br> 
+├── index.html<br> 
+└── style.css<br> 
