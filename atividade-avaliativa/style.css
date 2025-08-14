@@ -425,7 +425,6 @@ header{
     margin-bottom: 2.5rem;
 }
 
-
 .card .preco{
     display: flex;
     gap: 6px;
@@ -522,16 +521,23 @@ header{
 }
 
 .container-setas{
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.329);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     padding: 1rem;
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
+    align-items: center; 
+    justify-content: center;
 }
 
 .container-setas svg {
     align-items: center;
     justify-content: center;
     display: flex;
+    stroke-width: 4;
+}
+
+.lucide-chevron-left {
+    opacity: 0.4; 
 }
 
 footer{
@@ -634,10 +640,6 @@ footer{
     display: none;
 }
 
-
-
-
-
 @media(min-width: 1024px){
 
     header{
@@ -722,6 +724,7 @@ footer{
 
      #circulos-mobile{
         display: none;
+
      }
 
      .parte-direita{
