@@ -3,8 +3,8 @@
 Projeto de uma landing page feita com HTML e CSS.
 
 ### Tecnologias
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Google Fonts
 
 ### Como usar
