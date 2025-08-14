@@ -1,11 +1,17 @@
-## Atividade Avaliativa COCA
+# Atividade Avaliativa COCA
 
-Projeto de uma landing page feita com HTML e CSS.
+**Feito por Eduarda Ferrazza**
 
-### Tecnologias
+Projeto de uma landing page desenvolvida utilizando HTML e CSS.
+
+## Tecnologias Utilizadas
+
 - HTML
 - CSS
 - Google Fonts
 
-### Como usar
-Clone o repositório: git clone https://github.com/dudaferrazza/atividade-avaliativa.git
+## Estrutura do Projeto
+- atividade-avaliativa/
+- ├── imagens/ 
+- ├── index.html 
+- └── style.css 
