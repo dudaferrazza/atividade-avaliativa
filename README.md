@@ -18,5 +18,6 @@ Projeto de uma landing page desenvolvida utilizando HTML e CSS para a disciplina
 ## Estrutura do Projeto
 atividade-avaliativa/ <br>
 ├── imagens/<br> 
-├── index.html<br> 
+├── index.html<br>
+├── README.md<br>
 └── style.css<br> 
