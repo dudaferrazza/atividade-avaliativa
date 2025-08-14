@@ -2,7 +2,7 @@
 
 **Feito por Eduarda Ferrazza**
 
-Projeto de uma landing page desenvolvida utilizando HTML e CSS.
+Projeto de uma landing page desenvolvida utilizando HTML e CSS para a disciplina de Programação Front-End.
 
 ## Tecnologias Utilizadas
 - HTML
