@@ -1,3 +1,4 @@
+/* Importa Fonte Inter e Fonte DM Sans*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 
@@ -29,6 +30,9 @@ img, video {
     height: auto;
 }
 
+/* MOBILE FIRST */
+
+/* ? HEADER */
 header{
     background-color: var(--cor-fundo-escuro);
     padding: 1rem 1rem 0rem 1rem;
@@ -47,6 +51,11 @@ header{
     display: none;
 }
 
+
+/* ! ====================================== */
+
+
+/* ? APRESENTAÇÃO */
 .apresentacao-site{
     background-color: var(--cor-fundo-escuro);
     color: var(--cor-branca);
@@ -118,6 +127,11 @@ header{
     display: none;
 }
 
+
+/* ! ====================================== */
+
+
+/* ? EMPRESAS */
 .empresas{
     padding: 3rem 1rem;
 }
@@ -157,6 +171,11 @@ header{
     justify-self: end;
 }
 
+
+/* ! ====================================== */
+
+
+/* ? WEB HOSTING WORRIES */
 .web-hosting-worries{
     padding: 3rem 1rem;
 }
@@ -194,6 +213,11 @@ header{
     border-radius: 16px;
 }
 
+
+/* ! ====================================== */
+
+
+/* ? FEATURES */
 .features{
     background-color: var(--cor-fundo-claro);
     padding: 3rem 1rem;
@@ -279,6 +303,11 @@ header{
     line-height: 1.5;
 }
 
+
+/* ! ====================================== */
+
+
+/* ? EMPOWER TEAMS */
 .empower-teams{
     background-color: var(--cor-branca);
     padding: 3rem 1rem;
@@ -343,6 +372,11 @@ header{
     font-weight: bold;
 }
 
+
+/* ! ====================================== */
+
+
+/* ? PLANOS */
 .planos{
     background-color: var(--cor-branca);
     padding: 3rem 1rem;
@@ -464,6 +498,11 @@ header{
     list-style-type: none;
 }
 
+
+/* ! ====================================== */
+
+
+/* ? NOSSOS CLIENTES */
 .our-clients{
     padding: 6rem 1rem 3rem 1rem;
 }
@@ -540,6 +579,11 @@ header{
     opacity: 0.4; 
 }
 
+
+/* ! ====================================== */
+
+
+/* ? FOOTER */
 footer{
     background-color: var(--cor-footer);
     padding: 3rem 1rem;
@@ -640,8 +684,14 @@ footer{
     display: none;
 }
 
+
+/* ! ====================================== */
+
+
+/* ? MEDIA QUERIES - DESKTOP */
 @media(min-width: 1024px){
 
+    /* HEADER */
     header{
         padding: 1.5rem 3rem 0rem 3rem;
     }
@@ -699,6 +749,11 @@ footer{
         width: 100%;
     }
 
+
+    /* ! ====================================== */
+
+
+    /* ? APRESENTAÇÃO DO SITE */
     .apresentacao-site{
         padding: 1.5rem 3rem 0rem 3rem;
     }
@@ -740,6 +795,11 @@ footer{
         text-align: justify;
      }
 
+
+    /* ! ====================================== */
+
+
+    /* ? EMPRESAS */
      .empresas{
         padding: 3rem 3rem 8rem 3rem;
      }
@@ -757,6 +817,12 @@ footer{
         justify-self: center;
         align-self: center;
      }
+
+
+    /* ! ====================================== */
+
+
+    /* ? WEB HOSTING WORRIES */
 
      .web-hosting-worries{
         padding: 3rem 3rem 10rem 3rem;
@@ -788,6 +854,11 @@ footer{
         line-height: 1.6;
      }
 
+
+    /* ! ====================================== */
+
+
+    /* ? FEATURES */
     .features{
             padding: 5rem 3rem 5rem 3rem;
     }
@@ -820,6 +891,11 @@ footer{
         width: 30% !important;
      }
 
+
+    /* ! ====================================== */
+
+
+    /* ? EMPOWER TEAMS */
      .empower-teams{
         padding: 5rem 3rem 8rem 3rem
      }
@@ -906,6 +982,11 @@ footer{
         margin-top: 3rem;
      }
 
+
+    /* ! ====================================== */
+
+
+    /* ? PLANOS */
      .planos{
         padding: 5rem 3rem 8rem 3rem !important;
      }
@@ -935,6 +1016,11 @@ footer{
         width: 70%;
      }
 
+
+    /* ! ====================================== */
+
+
+    /* ? OUR CLIENTS */
      .our-clients{
         padding: 6rem 3rem 3rem 3rem;
      }
@@ -975,6 +1061,11 @@ footer{
         display: none;
      }
 
+
+    /* ! ====================================== */
+
+
+    /* ? FOOTER */
      footer{
         background-color: var(--cor-fundo-escuro);
         padding: 5rem;
