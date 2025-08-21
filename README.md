@@ -7,7 +7,6 @@ Projeto de uma landing page desenvolvida utilizando HTML e CSS para a disciplina
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- Google Fonts
 
 ## Como usar
 - Clone o repositório: git clone https://github.com/dudaferrazza/atividade-avaliativa.git
